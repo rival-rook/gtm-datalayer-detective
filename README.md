@@ -132,4 +132,6 @@ This extension was developed to make GTM debugging easier. If you encounter bugs
 
 ## Credits
 
-Developed by Ross Foniri to simplify Google Tag Manager and GA4 debugging for developers and analysts in 2026.
+Developed to simplify Google Tag Manager and GA4 debugging for developers and analysts.
+
+© 2026 Ross Foniri
