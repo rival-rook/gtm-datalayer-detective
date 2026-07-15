@@ -134,4 +134,5 @@ This extension was developed to make GTM debugging easier. If you encounter bugs
 
 Developed to simplify Google Tag Manager and GA4 debugging for developers and analysts.
 
+---
 © 2026 Ross Foniri
