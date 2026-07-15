@@ -1,4 +1,4 @@
-# GTM DataLayer Detective (COMING SOON)
+# GTM DataLayer Detective
 
 A Chrome DevTools extension for debugging Google Tag Manager (GTM) implementations and GA4 events in real-time.
 
