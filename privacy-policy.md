@@ -38,3 +38,6 @@ This extension does not use any third-party services, analytics, or tracking.
 ## Contact
 
 For questions or concerns, please contact: datalayer.detective@gmail.com
+
+---
+© 2026 Ross Foniri
